@@ -1,6 +1,5 @@
 package handlingfile;
 
-import java.io.FileReader;
 import java.io.IOException;
 
 public class FileHandling {
@@ -13,10 +12,11 @@ public class FileHandling {
 		rfile.append();
 		rfile.append();
 		rfile.read();
-		System.out.println("Successfully, added another three line on txt file");
+		System.out.println("Successfully, added three line on existing txt file");
 		rfile.append();
 		rfile.append();
 		rfile.read();
+		System.out.println("Successfully, added  another extra two line on txt file");
 		
 
 	}
