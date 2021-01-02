@@ -1,0 +1,7 @@
+It is my 1st line in txtFile
+Hi!!! Hello!
+1st append
+2nd append
+3rd append
+4th append
+5th append
